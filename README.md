@@ -37,7 +37,7 @@ youtube.com/user/PhenomeneFlash
 
 twitter.com/djtheflash
 
-https://www.youtube.com/watch?v=diEkr...
+https://www.youtube.com/watch?v=diEkrZh_P6Y
 
  
  **Created by DGC Productions** 
