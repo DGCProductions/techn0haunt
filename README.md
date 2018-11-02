@@ -23,7 +23,7 @@ See all versions: N/A
 - D: Move Right
 - Space: Jump
 - MOUSE1: Shoot
-- MOUSE1: Zoom
+- MOUSE2: Zoom
 - U: Buy 10 ammo (*requires 10 points, only on prep-rounds*)
 
 ## **Features (current and future plans)**
