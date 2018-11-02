@@ -23,9 +23,6 @@ See all versions: N/A
 - MOUSE1: Shoot
 - U: Buy 10 ammo (*requires 10 points, only on prep-rounds*)
 
-
-Do you have more questions? Follow the [Discord](https://discord.gg/JvyF9Pq) to ask questions and get answers!
-
 ## **Features (current and future plans)**
 - Following AI robots
 - Working plasma gun
