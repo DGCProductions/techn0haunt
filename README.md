@@ -32,9 +32,9 @@ Do you have more questions? Follow the [Discord](https://discord.gg/JvyF9Pq) to 
 - Waves
 - Money and a shop to buy weapons
  
- **Made with jMonkeyEngine**
+
  
- **Credits**
+ ### **Credits**
  
 Song: Eternity
 
@@ -50,5 +50,6 @@ twitter.com/djtheflash
 
 https://www.youtube.com/watch?v=diEkrZh_P6Y
 
+ **Made with jMonkeyEngine**
  
  **Created by DGC Productions** 
