@@ -21,7 +21,7 @@ See all versions: N/A
 - D: Move Right
 - Space: Jump
 - MOUSE1: Shoot
-- U: Buy 10 ammo (*requires 10 points, only on preprounds*)
+- U: Buy 10 ammo (*requires 10 points, only on prep-rounds*)
 
 
 Do you have more questions? Follow the [Discord](https://discord.gg/JvyF9Pq) to ask questions and get answers!
