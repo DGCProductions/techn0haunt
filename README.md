@@ -13,6 +13,15 @@ See all versions: N/A
 
 **Techn0Haunt** takes place in the future, when robots called T.F.R took over the world and nearly ended humanity as we know it. You are one of the last survivors, and armed with a weapon, must take down waves of robots in order to live and save humanity!
 
+## **Controls**
+
+- W: Move Forward
+- A: Move Left
+- S: Move Backwards
+- D: Move Right
+- MOUSE1: Shoot
+
+
 Do you have more questions? Follow the [Discord](https://discord.gg/JvyF9Pq) to ask questions and get answers!
 
 ## **Features (current and future plans)**
