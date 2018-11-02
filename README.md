@@ -34,7 +34,7 @@ Do you have more questions? Follow the [Discord](https://discord.gg/JvyF9Pq) to 
  
 
  
- ### **Credits**
+ ## **Credits**
  
 Song: Eternity
 
