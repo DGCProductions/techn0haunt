@@ -9,7 +9,7 @@ Current BETA: N/A
 
 Upcoming Version: N/A
 
-See all versions: N/A
+[See all versions](https://github.com/DGCProductions/techn0haunt/releases)
 
 ## **What the game is about...**
 
