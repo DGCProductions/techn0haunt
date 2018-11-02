@@ -3,7 +3,7 @@
 ### ***"The world was turned against us!"***
 
 ## **Versions**
-Current Version: N/A
+Current Version: [v1.0](https://github.com/DGCProductions/techn0haunt/releases/tag/v1.0)
 
 Current BETA: N/A
 
