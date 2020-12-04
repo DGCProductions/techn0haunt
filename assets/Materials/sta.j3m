@@ -1,0 +1,10 @@
+Material My Material : Common/MatDefs/Light/Lighting.j3md {
+     MaterialParameters {
+        DiffuseMap : Flip Textures/stats (1).png
+        UseMaterialColors : false
+        GlowMap : Flip Textures/neon.jpg
+     }
+    AdditionalRenderState {
+      Blend AlphaAdditive
+    }
+}
