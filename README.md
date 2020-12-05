@@ -2,7 +2,7 @@
 
 ### ***"The world was turned against us!"***
 
-NEW: Techn0Haunt has finally been opensourced.
+*NEW: Techn0Haunt has finally been opensourced.*
 
 ## **Versions**
 Current Version: [v1.0](https://github.com/DGCProductions/techn0haunt/releases/tag/v1.0)
