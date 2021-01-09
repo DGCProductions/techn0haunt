@@ -4,6 +4,7 @@
 
 *NEW: Techn0Haunt has finally been opensourced.*
 
+
 ## **Versions**
 Current Version: [v1.0](https://github.com/DGCProductions/techn0haunt/releases/tag/v1.0)
 
@@ -12,6 +13,8 @@ Current BETA: N/A
 Upcoming Version: N/A
 
 [See all versions](https://github.com/DGCProductions/techn0haunt/releases)
+
+*[Play the VR version here!](https://www.indiedb.com/games/techn0haunt-vr)*
 
 ## **What the game is about...**
 
