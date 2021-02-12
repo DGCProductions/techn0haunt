@@ -14,7 +14,7 @@ Upcoming Version: N/A
 
 [See all versions](https://github.com/DGCProductions/techn0haunt/releases)
 
-*[Play the VR version here!](https://www.indiedb.com/games/techn0haunt-vr)*
+[Play the VR version here!](https://www.indiedb.com/games/techn0haunt-vr)
 
 ## **What the game is about...**
 
