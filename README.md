@@ -4,6 +4,8 @@
 
 *NEW: Techn0Haunt has finally been opensourced.*
 
+[Play the next game in the Techn0Haunt series, Techn0Haunt: Prelude!](https://www.indiedb.com/games/techn0haunt-prelude)
+
 
 ## **Versions**
 Current Version: [v1.0](https://github.com/DGCProductions/techn0haunt/releases/tag/v1.0)
