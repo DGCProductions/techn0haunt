@@ -327,11 +327,8 @@ w = h * aspect;
 cam.setFrustumTop(h);
 
 cam.setFrustumBottom(-h);
-
 cam.setFrustumLeft(-w);
-
 cam.setFrustumRight(w);
-
 }
 }
     public void makeExplosion(Vector3f loc) {
